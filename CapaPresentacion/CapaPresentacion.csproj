@@ -1,0 +1,571 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C40C301B-85F8-431F-9AA5-A381063BBB90}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework">
+      <HintPath>C:\Users\ANALISTA\Documents\Visual Studio 2015\Projects\Metro UI Framework\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>C:\Users\ANALISTA\Documents\Visual Studio 2015\Projects\Metro UI Framework\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>C:\Users\ANALISTA\Documents\Visual Studio 2015\Projects\Metro UI Framework\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAsignacionCombustible.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAsignacionCombustible.Designer.cs">
+      <DependentUpon>FrmAsignacionCombustible.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAsignacionPesos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAsignacionPesos.Designer.cs">
+      <DependentUpon>FrmAsignacionPesos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAsignacionReparto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAsignacionReparto.Designer.cs">
+      <DependentUpon>FrmAsignacionReparto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCombustible.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCombustible.Designer.cs">
+      <DependentUpon>FrmCombustible.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmComprobante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmComprobante.Designer.cs">
+      <DependentUpon>FrmComprobante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConductores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConductores.Designer.cs">
+      <DependentUpon>FrmConductores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDepartamento.Designer.cs">
+      <DependentUpon>FrmDepartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDetalleRelevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDetalleRelevo.Designer.cs">
+      <DependentUpon>FrmDetalleRelevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDistrito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDistrito.Designer.cs">
+      <DependentUpon>FrmDistrito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEstadoCivil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEstadoCivil.Designer.cs">
+      <DependentUpon>FrmEstadoCivil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEstadoConductor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEstadoConductor.Designer.cs">
+      <DependentUpon>FrmEstadoConductor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEstadoVehicular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEstadoVehicular.Designer.cs">
+      <DependentUpon>FrmEstadoVehicular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmExportarData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmExportarData.Designer.cs">
+      <DependentUpon>FrmExportarData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGrifo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGrifo.Designer.cs">
+      <DependentUpon>FrmGrifo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmImportarData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmImportarData.Designer.cs">
+      <DependentUpon>FrmImportarData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLiquidar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLiquidar.Designer.cs">
+      <DependentUpon>FrmLiquidar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListaPlacas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListaPlacas.Designer.cs">
+      <DependentUpon>FrmListaPlacas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListarConductoresActivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListarConductoresActivos.Designer.cs">
+      <DependentUpon>FrmListarConductoresActivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOrigenDestino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOrigenDestino.Designer.cs">
+      <DependentUpon>FrmOrigenDestino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPerfil.Designer.cs">
+      <DependentUpon>FrmPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPesos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPesos.Designer.cs">
+      <DependentUpon>FrmPesos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProvincia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProvincia.Designer.cs">
+      <DependentUpon>FrmProvincia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegistroRelevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegistroRelevo.Designer.cs">
+      <DependentUpon>FrmRegistroRelevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRelleno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRelleno.Designer.cs">
+      <DependentUpon>FrmRelleno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSeguimientoLlamadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSeguimientoLlamadas.Designer.cs">
+      <DependentUpon>FrmSeguimientoLlamadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTiempos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTiempos.Designer.cs">
+      <DependentUpon>FrmTiempos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTipoContrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTipoContrato.Designer.cs">
+      <DependentUpon>FrmTipoContrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTipoVehicular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTipoVehicular.Designer.cs">
+      <DependentUpon>FrmTipoVehicular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTraspaso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTraspaso.Designer.cs">
+      <DependentUpon>FrmTraspaso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTraspasoReparto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTraspasoReparto.Designer.cs">
+      <DependentUpon>FrmTraspasoReparto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUnidadVehicular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUnidadVehicular.Designer.cs">
+      <DependentUpon>FrmUnidadVehicular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuario.Designer.cs">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FrmSubTipoVehicular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSubTipoVehicular.Designer.cs">
+      <DependentUpon>FrmSubTipoVehicular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteConductoresGeneral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteConductoresGeneral.Designer.cs">
+      <DependentUpon>ReporteConductoresGeneral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteControlCombustible.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteControlCombustible.Designer.cs">
+      <DependentUpon>ReporteControlCombustible.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteRutas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteRutas.Designer.cs">
+      <DependentUpon>ReporteRutas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportesUnidadesVehiculares.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportesUnidadesVehiculares.Designer.cs">
+      <DependentUpon>ReportesUnidadesVehiculares.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteUsuarios.Designer.cs">
+      <DependentUpon>ReporteUsuarios.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAsignacionCombustible.resx">
+      <DependentUpon>FrmAsignacionCombustible.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAsignacionPesos.resx">
+      <DependentUpon>FrmAsignacionPesos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAsignacionReparto.resx">
+      <DependentUpon>FrmAsignacionReparto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCombustible.resx">
+      <DependentUpon>FrmCombustible.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmComprobante.resx">
+      <DependentUpon>FrmComprobante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConductores.resx">
+      <DependentUpon>FrmConductores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDepartamento.resx">
+      <DependentUpon>FrmDepartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDetalleRelevo.resx">
+      <DependentUpon>FrmDetalleRelevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDistrito.resx">
+      <DependentUpon>FrmDistrito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEstadoCivil.resx">
+      <DependentUpon>FrmEstadoCivil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEstadoConductor.resx">
+      <DependentUpon>FrmEstadoConductor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEstadoVehicular.resx">
+      <DependentUpon>FrmEstadoVehicular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmExportarData.resx">
+      <DependentUpon>FrmExportarData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGrifo.resx">
+      <DependentUpon>FrmGrifo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmImportarData.resx">
+      <DependentUpon>FrmImportarData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLiquidar.resx">
+      <DependentUpon>FrmLiquidar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListaPlacas.resx">
+      <DependentUpon>FrmListaPlacas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListarConductoresActivos.resx">
+      <DependentUpon>FrmListarConductoresActivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOrigenDestino.resx">
+      <DependentUpon>FrmOrigenDestino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPerfil.resx">
+      <DependentUpon>FrmPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPesos.resx">
+      <DependentUpon>FrmPesos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProvincia.resx">
+      <DependentUpon>FrmProvincia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegistroRelevo.resx">
+      <DependentUpon>FrmRegistroRelevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRelleno.resx">
+      <DependentUpon>FrmRelleno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSeguimientoLlamadas.resx">
+      <DependentUpon>FrmSeguimientoLlamadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTiempos.resx">
+      <DependentUpon>FrmTiempos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTipoContrato.resx">
+      <DependentUpon>FrmTipoContrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTipoVehicular.resx">
+      <DependentUpon>FrmTipoVehicular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTraspaso.resx">
+      <DependentUpon>FrmTraspaso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTraspasoReparto.resx">
+      <DependentUpon>FrmTraspasoReparto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUnidadVehicular.resx">
+      <DependentUpon>FrmUnidadVehicular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuario.resx">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="FrmSubTipoVehicular.resx">
+      <DependentUpon>FrmSubTipoVehicular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteConductoresGeneral.resx">
+      <DependentUpon>ReporteConductoresGeneral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteControlCombustible.resx">
+      <DependentUpon>ReporteControlCombustible.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteRutas.resx">
+      <DependentUpon>ReporteRutas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportesUnidadesVehiculares.resx">
+      <DependentUpon>ReportesUnidadesVehiculares.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteUsuarios.resx">
+      <DependentUpon>ReporteUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{8a7a1fd0-5079-4988-8091-83c6200920a5}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocios\CapaNegocios.csproj">
+      <Project>{d7a5bcfc-2cf9-4070-916d-cec7ba29dcd2}</Project>
+      <Name>CapaNegocios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaReportes\CapaReportes.csproj">
+      <Project>{06d92d75-7db7-444e-8d1c-183dd3ba31dd}</Project>
+      <Name>CapaReportes</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orig_331374.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search alt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Uninstall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Magnifier.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Google Drive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doc - Google Docs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Magnifier1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drawing - Google Docs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Power - Standby.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notifications.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\semitrailer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoginRed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fuel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart - Google Docs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doc - Google Docs1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\receptor-del-telefono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\receptor-del-telefono %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\receptor-del-telefono %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\receptor-del-telefono %283%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

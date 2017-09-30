@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{8A7A1FD0-5079-4988-8091-83C6200920A5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D7A5BCFC-2CF9-4070-916D-CEC7BA29DCD2} = {D7A5BCFC-2CF9-4070-916D-CEC7BA29DCD2}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocios", "CapaNegocios\CapaNegocios.csproj", "{D7A5BCFC-2CF9-4070-916D-CEC7BA29DCD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPresentacion", "CapaPresentacion\CapaPresentacion.csproj", "{C40C301B-85F8-431F-9AA5-A381063BBB90}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8A7A1FD0-5079-4988-8091-83C6200920A5} = {8A7A1FD0-5079-4988-8091-83C6200920A5}
+		{D7A5BCFC-2CF9-4070-916D-CEC7BA29DCD2} = {D7A5BCFC-2CF9-4070-916D-CEC7BA29DCD2}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaReportes", "CapaReportes\CapaReportes.csproj", "{06D92D75-7DB7-444E-8D1C-183DD3BA31DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A7A1FD0-5079-4988-8091-83C6200920A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7A1FD0-5079-4988-8091-83C6200920A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7A1FD0-5079-4988-8091-83C6200920A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7A1FD0-5079-4988-8091-83C6200920A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A5BCFC-2CF9-4070-916D-CEC7BA29DCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A5BCFC-2CF9-4070-916D-CEC7BA29DCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A5BCFC-2CF9-4070-916D-CEC7BA29DCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A5BCFC-2CF9-4070-916D-CEC7BA29DCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C40C301B-85F8-431F-9AA5-A381063BBB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40C301B-85F8-431F-9AA5-A381063BBB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40C301B-85F8-431F-9AA5-A381063BBB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40C301B-85F8-431F-9AA5-A381063BBB90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D92D75-7DB7-444E-8D1C-183DD3BA31DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D92D75-7DB7-444E-8D1C-183DD3BA31DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D92D75-7DB7-444E-8D1C-183DD3BA31DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D92D75-7DB7-444E-8D1C-183DD3BA31DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

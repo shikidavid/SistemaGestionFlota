@@ -1,0 +1,838 @@
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+C:\Users\shiki\documents\visual studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.dll
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+D:\sistema control combustible\31-08-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\SISTEMA FLOTA VEHICULAR\02-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.dll
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+D:\sistema control combustible\04-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.dll
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRelleno.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.dll
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.pdb
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteConductoresGeneral.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReportesUnidadesVehiculares.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistroRelevo.resources
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Design.dll
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Fonts.dll
+D:\sistema control combustible\05-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.dll
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Design.dll
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.dll
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Fonts.dll
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.pdb
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistroRelevo.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRelleno.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteConductoresGeneral.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReportesUnidadesVehiculares.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleRelevo.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteRutas.resources
+D:\sistema control combustible\11-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteUsuarios.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.dll
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.pdb
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleRelevo.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistroRelevo.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRelleno.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteConductoresGeneral.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteRutas.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReportesUnidadesVehiculares.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteUsuarios.resources
+E:\SISTEMA FLOTA VEHICULAR\16-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleRelevo.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistroRelevo.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRelleno.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteConductoresGeneral.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteRutas.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReportesUnidadesVehiculares.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteUsuarios.resources
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.dll
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Design.dll
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.dll
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Fonts.dll
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\sistema control combustible\17-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.pdb
+C:\Users\shiki\Documents\Visual Studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.dll
+C:\Users\shiki\Documents\Visual Studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.pdb
+C:\Users\shiki\Documents\Visual Studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\shiki\Documents\Visual Studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleRelevo.resources
+C:\Users\shiki\Documents\Visual Studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistroRelevo.resources
+C:\Users\shiki\Documents\Visual Studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRelleno.resources
+C:\Users\shiki\Documents\Visual Studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteConductoresGeneral.resources
+C:\Users\shiki\Documents\Visual Studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteRutas.resources
+C:\Users\shiki\Documents\Visual Studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReportesUnidadesVehiculares.resources
+C:\Users\shiki\Documents\Visual Studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteUsuarios.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.dll
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Design.dll
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.dll
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Fonts.dll
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.pdb
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleRelevo.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistroRelevo.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRelleno.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteConductoresGeneral.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteRutas.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReportesUnidadesVehiculares.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteUsuarios.resources
+D:\sistema control combustible\20-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.dll
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.pdb
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleRelevo.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistroRelevo.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRelleno.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteConductoresGeneral.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteRutas.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReportesUnidadesVehiculares.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteUsuarios.resources
+E:\SISTEMA FLOTA VEHICULAR\21-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.dll
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Design.dll
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.dll
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Fonts.dll
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.pdb
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleRelevo.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistroRelevo.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRelleno.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteConductoresGeneral.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteRutas.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReportesUnidadesVehiculares.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteUsuarios.resources
+D:\sistema control combustible\22-09-2017\22-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.dll
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Design.dll
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.dll
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Fonts.dll
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.pdb
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleRelevo.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistroRelevo.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRelleno.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteConductoresGeneral.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteRutas.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReportesUnidadesVehiculares.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteUsuarios.resources
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\sistema control combustible\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSeguimientoLlamadas.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.dll
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.pdb
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleRelevo.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistroRelevo.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRelleno.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSeguimientoLlamadas.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteConductoresGeneral.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteRutas.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReportesUnidadesVehiculares.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteUsuarios.resources
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+E:\SISTEMA FLOTA VEHICULAR\ultimo 23-09-2017\23-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionPesos.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.dll
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Design.dll
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.dll
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Fonts.dll
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.pdb
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionPesos.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleRelevo.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistroRelevo.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRelleno.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSeguimientoLlamadas.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteConductoresGeneral.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteRutas.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReportesUnidadesVehiculares.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteUsuarios.resources
+D:\sistema control combustible\25-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\shiki\Documents\Visual Studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionPesos.resources
+C:\Users\shiki\Documents\Visual Studio 2015\Projects\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSeguimientoLlamadas.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.dll
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Design.dll
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.dll
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\MetroFramework.Fonts.dll
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.pdb
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionPesos.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleRelevo.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistroRelevo.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRelleno.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSeguimientoLlamadas.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteConductoresGeneral.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteRutas.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReportesUnidadesVehiculares.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteUsuarios.resources
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\sistema control combustible\26-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteControlCombustible.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.dll
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.dll
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\bin\Debug\CapaReportes.pdb
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionCombustible.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionPesos.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmAsignacionReparto.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCombustible.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmComprobante.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmConductores.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDepartamento.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDetalleRelevo.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmDistrito.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoCivil.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoConductor.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEstadoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExportarData.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmGrifo.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmImportarData.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLiquidar.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListaPlacas.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmListarConductoresActivos.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmLogin.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmOrigenDestino.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPerfil.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPesos.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmProvincia.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRegistroRelevo.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmRelleno.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSeguimientoLlamadas.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTiempos.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoContrato.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTipoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspaso.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTraspasoReparto.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUnidadVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmUsuario.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSubTipoVehicular.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteConductoresGeneral.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteControlCombustible.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteRutas.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReportesUnidadesVehiculares.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.ReporteUsuarios.resources
+E:\SISTEMA FLOTA VEHICULAR\Ultimo 28-09-2017\28-09-2017\SistemaGestionFlota\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
