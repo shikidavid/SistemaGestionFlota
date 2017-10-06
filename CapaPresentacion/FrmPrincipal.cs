@@ -302,6 +302,12 @@ namespace CapaPresentacion
             reportecontrolcombustible.Show();
         }
 
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmloginn.Show();
+            this.Hide();
+        }
+
         //private void timer1_Tick(object sender, EventArgs e)
         //{
         //    //Status_Fecha.Text = DateTime.Now.ToString("G");

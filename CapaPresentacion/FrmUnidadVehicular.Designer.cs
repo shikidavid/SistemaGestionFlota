@@ -60,10 +60,10 @@
             this.BtnCancelar = new System.Windows.Forms.Button();
             this.BtnGuardar = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.label11 = new System.Windows.Forms.Label();
             this.TxtBusqueda = new System.Windows.Forms.TextBox();
             this.BtnBuscar = new System.Windows.Forms.Button();
             this.GrillaUnidad = new System.Windows.Forms.DataGridView();
-            this.label11 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.GrillaUnidad)).BeginInit();
@@ -326,6 +326,7 @@
             // 
             // TxtPlaca
             // 
+            this.TxtPlaca.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.TxtPlaca.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TxtPlaca.Location = new System.Drawing.Point(15, 93);
             this.TxtPlaca.MaxLength = 7;
@@ -414,6 +415,16 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Busqueda-Unidad Vehicular";
             // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(15, 28);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(50, 17);
+            this.label11.TabIndex = 53;
+            this.label11.Text = "Buscar:";
+            // 
             // TxtBusqueda
             // 
             this.TxtBusqueda.Font = new System.Drawing.Font("Comic Sans MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -450,16 +461,6 @@
             this.GrillaUnidad.TabIndex = 7;
             this.GrillaUnidad.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.GrillaUnidad_CellClick);
             this.GrillaUnidad.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.GrillaUnidad_CellDoubleClick);
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(15, 28);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(50, 17);
-            this.label11.TabIndex = 53;
-            this.label11.Text = "Buscar:";
             // 
             // FrmUnidadVehicular
             // 

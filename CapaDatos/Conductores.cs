@@ -149,6 +149,18 @@ namespace CapaDatos
             return dt;
         }
 
+        public DataTable MostrarEstadoConductorNoAsignado()
+        {
+            DataTable dt = new DataTable();
+            con.Conectar();
+            SqlCommand cmd = new SqlCommand("SP_MostrarEstadoConductorNoAsignado", con.Obtenerconexion());
+            cmd.CommandType = CommandType.StoredProcedure;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            da.Fill(dt);
+            con.Conectar();
+            return dt;
+        }
+
         public DataTable MostrarDepartamento()
         {
             DataTable dt = new DataTable();

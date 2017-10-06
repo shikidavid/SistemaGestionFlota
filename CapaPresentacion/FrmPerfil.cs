@@ -46,6 +46,19 @@ namespace CapaPresentacion
             GrillaPerfil.Columns[0].Visible = false;
         }
 
+        public bool VerificarExistenciaPerfil(string perfil)
+        {
+            DataTable dt = new DataTable();
+            dt = Datos_Perfil.BuscarPerfil(perfil);
+            if (dt.Rows.Count > 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
         private void BtnNuevo_Click(object sender, EventArgs e)
         {
             TxtCodigo.Enabled = false;
@@ -59,34 +72,42 @@ namespace CapaPresentacion
 
         private void BtnGuardar_Click(object sender, EventArgs e)
         {
-            Negocio_Perfil.Perfil = TxtPerfil.Text;
-
-            switch (acction)
+            if (VerificarExistenciaPerfil(TxtPerfil.Text))
             {
-                case 'n':
-                    estado = Datos_Perfil.GuardarPerfil(Negocio_Perfil);
-                    break;
-                case 'm':
-                    Negocio_Perfil.IdPerfil = int.Parse(TxtCodigo.Text);
-                    estado = Datos_Perfil.ModificarPerfil(Negocio_Perfil);
-                    break;
+                MessageBox.Show("El Perfil ya existe");
             }
-
-
-            try
+            else
             {
-                if (estado == 1)
+
+
+                Negocio_Perfil.Perfil = TxtPerfil.Text;
+
+                switch (acction)
                 {
-                    MetroMessageBox.Show(this, "Datos Guardados Correctamente!!...", "Registro...", MessageBoxButtons.OK, MessageBoxIcon.Question);
-                 
+                    case 'n':
+                        estado = Datos_Perfil.GuardarPerfil(Negocio_Perfil);
+                        break;
+                    case 'm':
+                        Negocio_Perfil.IdPerfil = int.Parse(TxtCodigo.Text);
+                        estado = Datos_Perfil.ModificarPerfil(Negocio_Perfil);
+                        break;
+                }
+
+
+                try
+                {
+                    if (estado == 1)
+                    {
+                        MetroMessageBox.Show(this, "Datos Guardados Correctamente!!...", "Registro...", MessageBoxButtons.OK, MessageBoxIcon.Question);
+                    }
+                    Iniciar();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("ERROR!!! : " + ex.Message);
                 }
             }
-            catch (Exception ex)
-            {
-                MessageBox.Show("ERROR!!! : " + ex.Message);
-            }
-
-            Iniciar();
+            
         }
 
         private void GrillaPerfil_CellDoubleClick(object sender, DataGridViewCellEventArgs e)

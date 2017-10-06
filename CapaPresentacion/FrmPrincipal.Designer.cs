@@ -82,6 +82,7 @@
             this.unidadesVehicularesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.rutasTiemposToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.usuariosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.reportesCombustiblesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reportesEstadisticoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.seguridadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exportarBDToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -95,7 +96,7 @@
             this.Status_PerfilNombre = new System.Windows.Forms.ToolStripStatusLabel();
             this.Status_Fecha = new System.Windows.Forms.ToolStripStatusLabel();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.reportesCombustiblesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -117,6 +118,8 @@
             // 
             // inicioToolStripMenuItem
             // 
+            this.inicioToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.salirToolStripMenuItem});
             this.inicioToolStripMenuItem.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.inicioToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("inicioToolStripMenuItem.Image")));
             this.inicioToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
@@ -429,35 +432,35 @@
             // asignacionCombustibleToolStripMenuItem
             // 
             this.asignacionCombustibleToolStripMenuItem.Name = "asignacionCombustibleToolStripMenuItem";
-            this.asignacionCombustibleToolStripMenuItem.Size = new System.Drawing.Size(243, 28);
-            this.asignacionCombustibleToolStripMenuItem.Text = "Asignacion-Conductor";
+            this.asignacionCombustibleToolStripMenuItem.Size = new System.Drawing.Size(257, 28);
+            this.asignacionCombustibleToolStripMenuItem.Text = "Asignacion - Conductor";
             this.asignacionCombustibleToolStripMenuItem.Click += new System.EventHandler(this.asignacionCombustibleToolStripMenuItem_Click);
             // 
             // asignacionRepartoToolStripMenuItem
             // 
             this.asignacionRepartoToolStripMenuItem.Name = "asignacionRepartoToolStripMenuItem";
-            this.asignacionRepartoToolStripMenuItem.Size = new System.Drawing.Size(243, 28);
+            this.asignacionRepartoToolStripMenuItem.Size = new System.Drawing.Size(257, 28);
             this.asignacionRepartoToolStripMenuItem.Text = "Asignacion - Reparto";
             this.asignacionRepartoToolStripMenuItem.Click += new System.EventHandler(this.asignacionRepartoToolStripMenuItem_Click);
             // 
             // asignacionTiempoToolStripMenuItem
             // 
             this.asignacionTiempoToolStripMenuItem.Name = "asignacionTiempoToolStripMenuItem";
-            this.asignacionTiempoToolStripMenuItem.Size = new System.Drawing.Size(243, 28);
+            this.asignacionTiempoToolStripMenuItem.Size = new System.Drawing.Size(257, 28);
             this.asignacionTiempoToolStripMenuItem.Text = "Asignacion - Tiempo";
             this.asignacionTiempoToolStripMenuItem.Click += new System.EventHandler(this.asignacionTiempoToolStripMenuItem_Click);
             // 
             // asignacionPesosToolStripMenuItem
             // 
             this.asignacionPesosToolStripMenuItem.Name = "asignacionPesosToolStripMenuItem";
-            this.asignacionPesosToolStripMenuItem.Size = new System.Drawing.Size(243, 28);
+            this.asignacionPesosToolStripMenuItem.Size = new System.Drawing.Size(257, 28);
             this.asignacionPesosToolStripMenuItem.Text = "Asignacion - pesos";
             this.asignacionPesosToolStripMenuItem.Click += new System.EventHandler(this.asignacionPesosToolStripMenuItem_Click);
             // 
             // asignacionRelevosToolStripMenuItem
             // 
             this.asignacionRelevosToolStripMenuItem.Name = "asignacionRelevosToolStripMenuItem";
-            this.asignacionRelevosToolStripMenuItem.Size = new System.Drawing.Size(243, 28);
+            this.asignacionRelevosToolStripMenuItem.Size = new System.Drawing.Size(257, 28);
             this.asignacionRelevosToolStripMenuItem.Text = "Asignacion - Relevos";
             this.asignacionRelevosToolStripMenuItem.Click += new System.EventHandler(this.asignacionRelevosToolStripMenuItem_Click);
             // 
@@ -554,6 +557,13 @@
             this.usuariosToolStripMenuItem.Size = new System.Drawing.Size(255, 28);
             this.usuariosToolStripMenuItem.Text = "Usuarios";
             this.usuariosToolStripMenuItem.Click += new System.EventHandler(this.usuariosToolStripMenuItem_Click);
+            // 
+            // reportesCombustiblesToolStripMenuItem
+            // 
+            this.reportesCombustiblesToolStripMenuItem.Name = "reportesCombustiblesToolStripMenuItem";
+            this.reportesCombustiblesToolStripMenuItem.Size = new System.Drawing.Size(255, 28);
+            this.reportesCombustiblesToolStripMenuItem.Text = "Reportes Combustibles";
+            this.reportesCombustiblesToolStripMenuItem.Click += new System.EventHandler(this.reportesCombustiblesToolStripMenuItem_Click);
             // 
             // reportesEstadisticoToolStripMenuItem
             // 
@@ -659,12 +669,12 @@
             this.Status_Fecha.Size = new System.Drawing.Size(38, 21);
             this.Status_Fecha.Text = "Fecha";
             // 
-            // reportesCombustiblesToolStripMenuItem
+            // salirToolStripMenuItem
             // 
-            this.reportesCombustiblesToolStripMenuItem.Name = "reportesCombustiblesToolStripMenuItem";
-            this.reportesCombustiblesToolStripMenuItem.Size = new System.Drawing.Size(255, 28);
-            this.reportesCombustiblesToolStripMenuItem.Text = "Reportes Combustibles";
-            this.reportesCombustiblesToolStripMenuItem.Click += new System.EventHandler(this.reportesCombustiblesToolStripMenuItem_Click);
+            this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(152, 28);
+            this.salirToolStripMenuItem.Text = "Salir";
+            this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
             // FrmPrincipal
             // 
@@ -758,5 +768,6 @@
         private System.Windows.Forms.ToolStripMenuItem lLAMADASToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem seguimientoLlamadasToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem reportesCombustiblesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
     }
 }

@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.GrillaAsignacionCombustible = new System.Windows.Forms.DataGridView();
             this.label2 = new System.Windows.Forms.Label();
             this.TxtBusqueda = new System.Windows.Forms.TextBox();
+            this.GrillaAsignacionCombustible = new System.Windows.Forms.DataGridView();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.LnkVerificar = new System.Windows.Forms.LinkLabel();
             this.LblEstado = new System.Windows.Forms.Label();
@@ -90,9 +90,9 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.GrillaAsignacionCombustible);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.TxtBusqueda);
+            this.groupBox1.Controls.Add(this.GrillaAsignacionCombustible);
             this.groupBox1.Font = new System.Drawing.Font("Comic Sans MS", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(12, 9);
             this.groupBox1.Name = "groupBox1";
@@ -100,19 +100,6 @@
             this.groupBox1.TabIndex = 15;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Busqueda - Unidades Vehiculares";
-            // 
-            // GrillaAsignacionCombustible
-            // 
-            this.GrillaAsignacionCombustible.AllowUserToAddRows = false;
-            this.GrillaAsignacionCombustible.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.GrillaAsignacionCombustible.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
-            this.GrillaAsignacionCombustible.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.GrillaAsignacionCombustible.Location = new System.Drawing.Point(10, 70);
-            this.GrillaAsignacionCombustible.Name = "GrillaAsignacionCombustible";
-            this.GrillaAsignacionCombustible.ReadOnly = true;
-            this.GrillaAsignacionCombustible.Size = new System.Drawing.Size(605, 325);
-            this.GrillaAsignacionCombustible.TabIndex = 4;
-            this.GrillaAsignacionCombustible.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.GrillaAsignacionCombustible_CellClick);
             // 
             // label2
             // 
@@ -133,6 +120,20 @@
             this.TxtBusqueda.Size = new System.Drawing.Size(556, 26);
             this.TxtBusqueda.TabIndex = 3;
             this.TxtBusqueda.TextChanged += new System.EventHandler(this.TxtBusqueda_TextChanged);
+            // 
+            // GrillaAsignacionCombustible
+            // 
+            this.GrillaAsignacionCombustible.AllowUserToAddRows = false;
+            this.GrillaAsignacionCombustible.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.GrillaAsignacionCombustible.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
+            this.GrillaAsignacionCombustible.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.GrillaAsignacionCombustible.Location = new System.Drawing.Point(10, 70);
+            this.GrillaAsignacionCombustible.Name = "GrillaAsignacionCombustible";
+            this.GrillaAsignacionCombustible.ReadOnly = true;
+            this.GrillaAsignacionCombustible.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.GrillaAsignacionCombustible.Size = new System.Drawing.Size(605, 325);
+            this.GrillaAsignacionCombustible.TabIndex = 4;
+            this.GrillaAsignacionCombustible.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.GrillaAsignacionCombustible_CellClick);
             // 
             // groupBox3
             // 
@@ -667,7 +668,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(1334, 579);
+            this.ClientSize = new System.Drawing.Size(1284, 579);
             this.ControlBox = false;
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.groupBox3);

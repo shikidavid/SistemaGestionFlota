@@ -298,6 +298,7 @@
             this.TxtApellido.Size = new System.Drawing.Size(180, 26);
             this.TxtApellido.TabIndex = 12;
             this.TxtApellido.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtApellido_KeyPress);
+            this.TxtApellido.Leave += new System.EventHandler(this.TxtApellido_Leave);
             // 
             // TxtNombre
             // 
@@ -307,6 +308,7 @@
             this.TxtNombre.Size = new System.Drawing.Size(180, 26);
             this.TxtNombre.TabIndex = 10;
             this.TxtNombre.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtNombre_KeyPress);
+            this.TxtNombre.Leave += new System.EventHandler(this.TxtNombre_Leave);
             // 
             // TxtContraseño
             // 
@@ -316,6 +318,7 @@
             this.TxtContraseño.PasswordChar = '*';
             this.TxtContraseño.Size = new System.Drawing.Size(127, 26);
             this.TxtContraseño.TabIndex = 8;
+            this.TxtContraseño.Leave += new System.EventHandler(this.TxtContraseño_Leave);
             // 
             // TxtContraseñaRepetida
             // 
@@ -325,6 +328,7 @@
             this.TxtContraseñaRepetida.PasswordChar = '*';
             this.TxtContraseñaRepetida.Size = new System.Drawing.Size(124, 26);
             this.TxtContraseñaRepetida.TabIndex = 6;
+            this.TxtContraseñaRepetida.Leave += new System.EventHandler(this.TxtContraseñaRepetida_Leave);
             // 
             // TxtUsuario
             // 
@@ -333,6 +337,7 @@
             this.TxtUsuario.Name = "TxtUsuario";
             this.TxtUsuario.Size = new System.Drawing.Size(164, 26);
             this.TxtUsuario.TabIndex = 4;
+            this.TxtUsuario.Leave += new System.EventHandler(this.TxtUsuario_Leave);
             // 
             // TxtCodigo
             // 

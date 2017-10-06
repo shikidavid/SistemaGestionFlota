@@ -57,12 +57,23 @@ namespace CapaPresentacion
         }
         public void CargarGrilla()
         {
-
             GrillaUsuario.DataSource = Datos_Usuario.MostrarUsuarios();
             GrillaUsuario.Columns[0].Visible = false;
-            //GrillaUsuario.Columns[5].Visible = false;
         }
 
+        public bool VerificarExistenciaUsuario(string usuario)
+        {
+            DataTable dt = new DataTable();
+            dt = Datos_Usuario.BuscarUsuario(usuario);
+            if (dt.Rows.Count > 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
         private void BtnSalir_Click(object sender, EventArgs e)
         {
             Iniciar();
@@ -97,41 +108,52 @@ namespace CapaPresentacion
 
         private void BtnGuardar_Click(object sender, EventArgs e)
         {
-            Negocio_Usuario.Usuario = TxtUsuario.Text;
-            Negocio_Usuario.Password = Datos_Usuario.Encriptar(TxtContraseño.Text);
-            Negocio_Usuario.Nombre = TxtNombre.Text;
-            Negocio_Usuario.Apellido= TxtApellido.Text;
-            Negocio_Usuario.Direccion = TxtDireccion.Text;
-            Negocio_Usuario.FechaNacimiento = DtFechanacimiento.Value;
-            Negocio_Usuario.IdPerfil =Convert.ToInt32(CboPerfil.SelectedValue);
-            Negocio_Usuario.Sexo = CboSexo.SelectedItem.ToString();
-
-            switch (acction)
+            if (TxtUsuario.Text == string.Empty || TxtContraseño.Text == string.Empty || TxtContraseñaRepetida.Text == string.Empty || TxtNombre.Text == string.Empty || TxtApellido.Text == string.Empty || TxtDireccion.Text == string.Empty || CboPerfil.Text == "Seleccione" || CboSexo.Text == "Seleccione")
             {
-                case 'n':
-                    estado = Datos_Usuario.GuardarUsuario(Negocio_Usuario);
-                    break;
-                case 'm':
-                    Negocio_Usuario.IdUsuario = int.Parse(TxtCodigo.Text);
-                    estado = Datos_Usuario.ModificarUsuario(Negocio_Usuario);
-                    break;
+                MessageBox.Show("Debe Registrar todos los datos");
             }
-
-
-            try
+            else
             {
-                if (estado == 1)
+                if (VerificarExistenciaUsuario(TxtUsuario.Text))
                 {
-                    MetroMessageBox.Show(this, "Datos Guardados Correctamente!!...", "Informacion...", MessageBoxButtons.OK, MessageBoxIcon.Question);
-                    
+                    MessageBox.Show("El Usuario ya existe");
                 }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("ERROR!!! : " + ex.Message);
-            }
+                else
+                {
+                    Negocio_Usuario.Usuario = TxtUsuario.Text;
+                    Negocio_Usuario.Password = Datos_Usuario.Encriptar(TxtContraseño.Text);
+                    Negocio_Usuario.Nombre = TxtNombre.Text;
+                    Negocio_Usuario.Apellido = TxtApellido.Text;
+                    Negocio_Usuario.Direccion = TxtDireccion.Text;
+                    Negocio_Usuario.FechaNacimiento = DtFechanacimiento.Value;
+                    Negocio_Usuario.IdPerfil = Convert.ToInt32(CboPerfil.SelectedValue);
+                    Negocio_Usuario.Sexo = CboSexo.SelectedItem.ToString();
 
-            Iniciar();
+                    switch (acction)
+                    {
+                        case 'n':
+                            estado = Datos_Usuario.GuardarUsuario(Negocio_Usuario);
+                            break;
+                        case 'm':
+                            Negocio_Usuario.IdUsuario = int.Parse(TxtCodigo.Text);
+                            estado = Datos_Usuario.ModificarUsuario(Negocio_Usuario);
+                            break;
+                    }
+
+                    try
+                    {
+                        if (estado == 1)
+                        {
+                            MetroMessageBox.Show(this, "Datos Guardados Correctamente!!...", "Informacion...", MessageBoxButtons.OK, MessageBoxIcon.Question);
+                            Iniciar();
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("ERROR!!! : " + ex.Message);
+                    }
+                }
+            }            
         }
 
         private void TxtBuscar_TextChanged(object sender, EventArgs e)
@@ -214,6 +236,31 @@ namespace CapaPresentacion
                 TxtCodigo.Text = GrillaUsuario.Rows[e.RowIndex].Cells[0].Value.ToString();
             }
 
+        }
+
+        private void TxtUsuario_Leave(object sender, EventArgs e)
+        {
+            TxtContraseño.Focus();
+        }
+
+        private void TxtContraseño_Leave(object sender, EventArgs e)
+        {
+            TxtContraseñaRepetida.Focus();
+        }
+
+        private void TxtContraseñaRepetida_Leave(object sender, EventArgs e)
+        {
+            TxtNombre.Focus();
+        }
+
+        private void TxtNombre_Leave(object sender, EventArgs e)
+        {
+            TxtApellido.Focus();
+        }
+
+        private void TxtApellido_Leave(object sender, EventArgs e)
+        {
+            TxtDireccion.Focus();
         }
     }
 }

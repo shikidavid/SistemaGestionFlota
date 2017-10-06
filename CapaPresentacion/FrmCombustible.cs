@@ -30,13 +30,17 @@ namespace CapaPresentacion
 
         static int origen;
         static int placa;
+
         int familia;
         int IdUnidadVehicular = 0;
-        int pil= 0, copil = 0;
+        int pil = 0, copil = 0;
         int estado;
         char acction;
+        int user;
+        int detalle = 0;
 
         int Estado_CbOrigen = 0;
+        bool estado_detalle = false;
 
         public FrmCombustible()
         {
@@ -139,44 +143,23 @@ namespace CapaPresentacion
             }
         }
 
+
+
         public void iniciar()
-        {
-            CargarGrilla();
-            //cborelleno1.Enabled = false;
-            //cborelleno2.Enabled = false;
+        {            
             checkBox1.Checked = false;
             checkBox2.Checked = false;
             TxtBusqueda.Text = "";
 
-           // this.cbOrigenDestino.SelectedItem = null;
-            cbOrigenDestino.Text = "Seleccione";
-            TxtPiloto.Text = "";
-            TxtCopiloto.Text = "";
-            txttelefono.Text = "";
-            // this.cboGrifo.SelectedItem = null;
-            //cboGrifo.Text = "Seleccione";
-             txtrelleno1.Text = "";
-            txtrelleno2.Text = "";
-            txtcantidad1.Text = "";
-            txtcantidad2.Text = "";
-            TxtPesoBalanza.Text = "";
-            TxtConsumo.Text = "";
-            txttiempo.Text = "";
-            txtestadoconsumo.Text = "";
-            txtestadotiempo.Text = "";
-            txtnumeroguias.Text = "";
-           // this.cborelleno1.SelectedItem = null;
-           // this.cborelleno2.SelectedItem = null;
-           // this.cboestadotiemporuta.SelectedItem =0;
-           cboestadotiemporuta.Text = "Seleccione";
-            txtexcesoconsumo.Text = "";
-            Txtconsumocombustible.Text = "";
-            txtkilometrajepororigen.Text = "";
-            //txtexcesotiempo.Text = "";
-            TxtKilometraje.Enabled=false;
-            BtnRelevo.Enabled = false;
-            TxtConsumo.Enabled = false;
-            Txtconsumocombustible.Enabled = true;
+
+            if (cbOrigenDestino.Items.Count>0)
+            {
+                cbOrigenDestino.SelectedIndex = -1;
+            }
+            
+            //cboestadotiemporuta.SelectedIndex = -1;
+            
+            BtnRelevo.Enabled = false;            
             LblEstado.Text = "";
             txtnumeroguias.Enabled = false;
             
@@ -195,27 +178,33 @@ namespace CapaPresentacion
         public void CargarGrillaDetalle(int id_placa)
         {
             GrillaDetallePorUnidad.DataSource = Datos_Combustible.MostrarRegistroCombustibleXUnidad(id_placa);
-            //GrillaDetallePorUnidad.Columns[0].Visible = false;
-            //GrillaDetallePorUnidad.Columns[3].Visible = false;
+            GrillaDetallePorUnidad.Columns[0].Visible = false;
+            //GrillaDetallePorUnidad.Columns[1].Visible = false;
+            //GrillaDetallePorUnidad.Columns[2].Visible = false;
+            GrillaDetallePorUnidad.Columns[3].Visible = false;
+            GrillaDetallePorUnidad.Columns[4].Visible = false;
             //GrillaDetallePorUnidad.Columns[5].Visible = false;
-            //GrillaDetallePorUnidad.Columns[6].Visible = false;
-            //GrillaDetallePorUnidad.Columns[7].Visible = false;
-            //GrillaDetallePorUnidad.Columns[8].Visible = false;
-            //GrillaDetallePorUnidad.Columns[9].Visible = false;
-            //GrillaDetallePorUnidad.Columns[10].Visible = false;
-            //GrillaDetallePorUnidad.Columns[11].Visible = false;
+            GrillaDetallePorUnidad.Columns[6].Visible = false;
+            GrillaDetallePorUnidad.Columns[7].Visible = false;
+            GrillaDetallePorUnidad.Columns[8].Visible = false;
+            GrillaDetallePorUnidad.Columns[9].Visible = false;
+            GrillaDetallePorUnidad.Columns[10].Visible = false;
+            GrillaDetallePorUnidad.Columns[11].Visible = false;
+            GrillaDetallePorUnidad.Columns[12].Visible = false;
+            //GrillaDetallePorUnidad.Columns[13].Visible = false;
+            GrillaDetallePorUnidad.Columns[14].Visible = false;
 
             for (int i = 0; i < GrillaDetallePorUnidad.Rows.Count; i++)
             {
-                if (GrillaDetallePorUnidad.Rows[i].Cells[12].Value.ToString() == "COMPLETO")
+                if (GrillaDetallePorUnidad.Rows[i].Cells[13].Value.ToString() == "COMPLETO")
                 {
-                    GrillaDetallePorUnidad.Rows[i].Cells[12].Style.BackColor = Color.Green;
-                    GrillaDetallePorUnidad.Rows[i].Cells[12].Style.ForeColor = Color.White;
+                    GrillaDetallePorUnidad.Rows[i].Cells[13].Style.BackColor = Color.Green;
+                    GrillaDetallePorUnidad.Rows[i].Cells[13].Style.ForeColor = Color.White;
                 }
-                if (GrillaDetallePorUnidad.Rows[i].Cells[12].Value.ToString() == "INCOMPLETO")
+                if (GrillaDetallePorUnidad.Rows[i].Cells[13].Value.ToString() == "INCOMPLETO")
                 {
-                    GrillaDetallePorUnidad.Rows[i].Cells[12].Style.BackColor = Color.Yellow;
-                    GrillaDetallePorUnidad.Rows[i].Cells[12].Style.ForeColor = Color.Black;
+                    GrillaDetallePorUnidad.Rows[i].Cells[13].Style.BackColor = Color.Yellow;
+                    GrillaDetallePorUnidad.Rows[i].Cells[13].Style.ForeColor = Color.Black;
                 }
             }
 
@@ -225,6 +214,7 @@ namespace CapaPresentacion
         private void BtnSalir_Click(object sender, EventArgs e)
         {
             iniciar();
+            CargarGrilla();
             this.Hide();
         }
 
@@ -265,6 +255,7 @@ namespace CapaPresentacion
 
 
             iniciar();
+            CargarGrilla();
             LblEstado.Text = "";
 
             CargarGrillaDetalle(placa);
@@ -362,7 +353,7 @@ namespace CapaPresentacion
 
         private void metroButton1_Click(object sender, EventArgs e)
         {
-            if (cbOrigenDestino.Text != string.Empty)
+            if (cbOrigenDestino.Text != string.Empty && cbOrigenDestino.SelectedValue != null)
             {
                 origen = int.Parse(cbOrigenDestino.SelectedValue.ToString());
 
@@ -386,14 +377,7 @@ namespace CapaPresentacion
             if (e.RowIndex > -1)
             {
                 iniciar();
-                pil = copil = 0;
-                GrillaAsignacionCombustible.CurrentCell = GrillaAsignacionCombustible[1, e.RowIndex];
-
-                foreach (DataGridViewCell celda in this.GrillaAsignacionCombustible.Rows[e.RowIndex].Cells)
-                {
-                    celda.Style.BackColor = Color.DodgerBlue;
-                    celda.Style.ForeColor = Color.White;
-                }
+                pil = copil = 0;             
 
 
 
@@ -466,11 +450,14 @@ namespace CapaPresentacion
                 //GrillaAsignacionCombustible.DataSource = GrillaDetallePorUnidad;
 
                 CargarGrillaDetalle(placa);
-            }            
+
+            }
+            estado_detalle = false;     
         }
 
         private void BtnSalir_Click_1(object sender, EventArgs e)
         {
+
             iniciar();
             this.Hide();
         }
@@ -505,17 +492,21 @@ namespace CapaPresentacion
                 else
                 {
                     DataTable dt = new DataTable();
-                    origen = int.Parse(cbOrigenDestino.SelectedValue.ToString());
-                    dt = Datos_Relevo.BuscarRelevo(familia, origen);
-                    if (dt.Rows.Count == 0)
+                    if (cbOrigenDestino.SelectedValue != null)
                     {
-                        dt = Datos_OrigenDestino.BuscarOrigenDestino(origen);
-                        txtkilometrajepororigen.Text = dt.Rows[0][8].ToString();
+                        origen = int.Parse(cbOrigenDestino.SelectedValue.ToString());
+                        dt = Datos_Relevo.BuscarRelevo(familia, origen);
+                        if (dt.Rows.Count == 0)
+                        {
+                            dt = Datos_OrigenDestino.BuscarOrigenDestino(origen);
+                            txtkilometrajepororigen.Text = dt.Rows[0][8].ToString();
+                        }
+                        else
+                        {
+                            txtkilometrajepororigen.Text = "0";
+                        }
                     }
-                    else
-                    {
-                        txtkilometrajepororigen.Text = "0";
-                    }                    
+                                     
                 }
             }
         }
@@ -632,18 +623,28 @@ namespace CapaPresentacion
                     Negocios_Combustible.IdEstadoCombustible = 1;
                 }
                 Negocios_Combustible.IdUsuario = FrmLogin.ObtenerId();
-                MessageBox.Show(pil.ToString());
-                MessageBox.Show(copil.ToString());
-                string mensaje = Datos_Combustible.GuardarCombustible(Negocios_Combustible, pil, copil);
-                if (mensaje == "0")
+
+                string mensaje = null;
+
+                if (estado_detalle)
                 {
-                    MessageBox.Show("Datos Guardados Correctamente.");
-                    cbOrigenDestino.Text = "Seleccione";
+                    if (FrmLogin.ObtenerId() == user)
+                    {
+                        Negocios_Combustible.IdCombustible = detalle;
+                        mensaje = Datos_Combustible.ModificarCombustible(Negocios_Combustible, pil, copil);
+                    }
+                    else
+                    {
+                        MessageBox.Show("No puedes modificar este registro, solo el usuario: " + FrmLogin.ObtenerUsuario() + " puede modificarlo");
+                    }
                 }
                 else
                 {
-                    MessageBox.Show("Los datos no fueron guardados, " + mensaje);
+                    mensaje = Datos_Combustible.GuardarCombustible(Negocios_Combustible, pil, copil);
                 }
+                
+                MessageBox.Show(mensaje);
+
                 CargarGrillaDetalle(placa);
             }            
             
@@ -739,6 +740,8 @@ namespace CapaPresentacion
 
         private void GrillaDetallePorUnidad_CellClick(object sender, DataGridViewCellEventArgs e)
         {
+            estado_detalle = true;
+
             DataTable dt_temp, conductores, tipo_conductor;
             dt_temp = new DataTable();
             conductores = new DataTable();
@@ -785,6 +788,9 @@ namespace CapaPresentacion
             {
                 txtobservacion.Text = dt_temp.Rows[e.RowIndex][12].ToString();
             }
+
+            user = int.Parse(GrillaDetallePorUnidad.Rows[e.RowIndex].Cells[14].Value.ToString());
+            detalle = int.Parse(GrillaDetallePorUnidad.Rows[e.RowIndex].Cells[0].Value.ToString());
         }
 
         private void LnkVerificar_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

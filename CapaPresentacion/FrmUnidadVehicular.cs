@@ -70,6 +70,19 @@ namespace CapaPresentacion
             GrillaUnidad.Columns[0].Visible = false;
         }
 
+        public bool VerificarExistenciaPlaca(string placa)
+        {
+            DataTable dt = new DataTable();
+            dt = Datos_UnidadVehicular.BuscarUnidadVehicular(placa);
+            if (dt.Rows.Count > 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
         private void BtnSalir_Click(object sender, EventArgs e)
         {
             Iniciar();
@@ -119,39 +132,48 @@ namespace CapaPresentacion
                     {
                         if (TxtPeso.Text != "")
                         {
-                            if (Convert.ToInt32(CboEstado.SelectedValue) != 0 && Convert.ToInt32(CboTipo.SelectedValue) != 0)
+                            if (VerificarExistenciaPlaca(TxtPlaca.Text))
                             {
-                                Negocio_UnidadVehicular.Placa = TxtPlaca.Text;
-                                Negocio_UnidadVehicular.PlacaFurjon = TxtFurjon.Text;
-                                Negocio_UnidadVehicular.Modelo = TxtModelo.Text;
-                                
-                                Negocio_UnidadVehicular.NEje = Convert.ToInt32(TxtEje.Text);
-                                Negocio_UnidadVehicular.Año = Convert.ToInt32(TxtAño.Text);
-                                Negocio_UnidadVehicular.NTelefono = TxtTelefono.Text;
-                                Negocio_UnidadVehicular.CapTanque = Convert.ToInt32(TxtTanque.Text);
-                                Negocio_UnidadVehicular.PesoTara = Convert.ToInt32(TxtPeso.Text);
-                                Negocio_UnidadVehicular.Descripcion = TxtDescripcion.Text;
-
-                                Negocio_UnidadVehicular.IdEstadoVehicular = Convert.ToInt32(CboEstado.SelectedValue);
-                                Negocio_UnidadVehicular.IdTipoVehiculo = Convert.ToInt32(CboTipo.SelectedValue);
-
-                                switch (acction)
-                                {
-                                    case 'n':
-                                        estado = Datos_UnidadVehicular.GuardarUnidadVehicular(Negocio_UnidadVehicular);
-
-                                        break;
-                                    case 'm':
-                                        Negocio_UnidadVehicular.IdUnidadVehicular = int.Parse(TxtCodigo.Text);
-                                        estado = Datos_UnidadVehicular.ModificarUnidadVehicular(Negocio_UnidadVehicular);
-                                        break;
-                                }
-                                Iniciar();            
+                                MessageBox.Show("La placa ya existe");
                             }
                             else
                             {
-                                MetroMessageBox.Show(this, "debe seleccionar el tipo y el estado para poder guardar...", "Registro...", MessageBoxButtons.OK, MessageBoxIcon.None);
-                               
+
+
+                                if (Convert.ToInt32(CboEstado.SelectedValue) != 0 && Convert.ToInt32(CboTipo.SelectedValue) != 0)
+                                {
+                                    Negocio_UnidadVehicular.Placa = TxtPlaca.Text;
+                                    Negocio_UnidadVehicular.PlacaFurjon = TxtFurjon.Text;
+                                    Negocio_UnidadVehicular.Modelo = TxtModelo.Text;
+
+                                    Negocio_UnidadVehicular.NEje = Convert.ToInt32(TxtEje.Text);
+                                    Negocio_UnidadVehicular.Año = Convert.ToInt32(TxtAño.Text);
+                                    Negocio_UnidadVehicular.NTelefono = TxtTelefono.Text;
+                                    Negocio_UnidadVehicular.CapTanque = Convert.ToInt32(TxtTanque.Text);
+                                    Negocio_UnidadVehicular.PesoTara = Convert.ToInt32(TxtPeso.Text);
+                                    Negocio_UnidadVehicular.Descripcion = TxtDescripcion.Text;
+
+                                    Negocio_UnidadVehicular.IdEstadoVehicular = Convert.ToInt32(CboEstado.SelectedValue);
+                                    Negocio_UnidadVehicular.IdTipoVehiculo = Convert.ToInt32(CboTipo.SelectedValue);
+
+                                    switch (acction)
+                                    {
+                                        case 'n':
+                                            estado = Datos_UnidadVehicular.GuardarUnidadVehicular(Negocio_UnidadVehicular);
+
+                                            break;
+                                        case 'm':
+                                            Negocio_UnidadVehicular.IdUnidadVehicular = int.Parse(TxtCodigo.Text);
+                                            estado = Datos_UnidadVehicular.ModificarUnidadVehicular(Negocio_UnidadVehicular);
+                                            break;
+                                    }
+                                    Iniciar();
+                                }
+                                else
+                                {
+                                    MetroMessageBox.Show(this, "debe seleccionar el tipo y el estado para poder guardar...", "Registro...", MessageBoxButtons.OK, MessageBoxIcon.None);
+
+                                }
                             }
                         }
                         else
@@ -186,15 +208,14 @@ namespace CapaPresentacion
                 if (estado == 1)
                 {
                     MetroMessageBox.Show(this, "Datos Guardados Correctamente!!...", "Informacion...", MessageBoxButtons.OK, MessageBoxIcon.Question);
-                    
-                    
+                    Iniciar();
                 }
             }
             catch (Exception ex)
             {
                 MessageBox.Show("ERROR!!! : " + ex.Message);
             }
-            Iniciar();
+            
 
         }
 

@@ -55,6 +55,7 @@ namespace CapaPresentacion
             CargarGrilla();
         }
 
+        
         public void CargarGrilla()
         {
 
@@ -103,40 +104,46 @@ namespace CapaPresentacion
 
         private void BtnGuardar_Click(object sender, EventArgs e)
         {
-            Negocio_Relleno.Lugar1 = TxtLugar1.Text;
-            Negocio_Relleno.Lugar2 = TxtLugar2.Text;
-            Negocio_Relleno.IdTipoVehiculo = Convert.ToInt32(cbfamilia.SelectedValue);
-            Negocio_Relleno.IdOrigenDestino = Convert.ToInt32(CboRuta.SelectedValue);
-
-            switch (acction)
+            if (CboRuta.Text == "Seleccione" || cbfamilia.Text == "Seleccione" || TxtLugar1.Text == string.Empty)
             {
-                case 'n':
-                    estado = Datos_Relleno.GuardarRelleno(Negocio_Relleno);
-                    
-                    break;
-                case 'm':
-                    Negocio_Relleno.IdRelleno = int.Parse(TxtCodigo.Text);
-
-                    estado = Datos_Relleno.ModificaRellenoCombustible(Negocio_Relleno);
-                        
-                    break;
+                MessageBox.Show("Debe ingresar los campos obligatorios");
             }
-
-
-            try
+            else
             {
-                if (estado == 1)
+                Negocio_Relleno.Lugar1 = TxtLugar1.Text;
+                Negocio_Relleno.Lugar2 = TxtLugar2.Text;
+                Negocio_Relleno.IdTipoVehiculo = Convert.ToInt32(cbfamilia.SelectedValue);
+                Negocio_Relleno.IdOrigenDestino = Convert.ToInt32(CboRuta.SelectedValue);
+
+                switch (acction)
                 {
-                    MetroMessageBox.Show(this, "Datos Guardados Correctamente...", "Registro...", MessageBoxButtons.OK, MessageBoxIcon.Question);
-                   
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("ERROR!!! : " + ex.Message);
-            }
+                    case 'n':
+                        estado = Datos_Relleno.GuardarRelleno(Negocio_Relleno);
 
-            Iniciar();
+                        break;
+                    case 'm':
+                        Negocio_Relleno.IdRelleno = int.Parse(TxtCodigo.Text);
+
+                        estado = Datos_Relleno.ModificaRellenoCombustible(Negocio_Relleno);
+
+                        break;
+                }
+
+
+                try
+                {
+                    if (estado == 1)
+                    {
+                        MetroMessageBox.Show(this, "Datos Guardados Correctamente...", "Registro...", MessageBoxButtons.OK, MessageBoxIcon.Question);
+                    }
+                    Iniciar();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("ERROR!!! : " + ex.Message);
+                }
+
+            }
         }
 
         private void TxtBusqueda_TextChanged(object sender, EventArgs e)

@@ -354,44 +354,47 @@ namespace CapaPresentacion
 
         private void btneliminar_Click(object sender, EventArgs e)
         {
-            int fila = GrillaAsignacion.CurrentCell.RowIndex;
-            int conductor = int.Parse(GrillaAsignacion.Rows[fila].Cells[2].Value.ToString());
-            int vehiculo= int.Parse(GrillaAsignacion.Rows[fila].Cells[0].Value.ToString());
-            
-            DialogResult result = MessageBox.Show("¿Esta Seguro que desea eliminar el tripulante?", "Eliminar",MessageBoxButtons.YesNo,MessageBoxIcon.Warning);
-            switch (result)
+            if (GrillaAsignacion.Rows.Count == 0)
             {
-                case DialogResult.Yes:
-                    {
-                        int estado = Datos_Asignacion.LiberarConductor(conductor, vehiculo);
-
-                        if (estado > 0)
-                        {
-                            GrillaAsignacion.Rows.RemoveAt(fila);
-                            CargarGrillaConductor("");
-                            MessageBox.Show("Tripulante Eliminado Correctamente");
-                        }
-                        else
-                        {
-                            CargarGrillaConductor("");
-                            MessageBox.Show("El Tripulante no fue Eliminado");
-                        }                        
-                        break;
-                    }
-                case DialogResult.No:
-                    {
-                        break;
-                    }
+                MessageBox.Show("no hay registro para eliminar");
             }
-            
+            else
+            {
+                int fila = GrillaAsignacion.CurrentCell.RowIndex;
+                int conductor = int.Parse(GrillaAsignacion.Rows[fila].Cells[2].Value.ToString());
+                int vehiculo = int.Parse(GrillaAsignacion.Rows[fila].Cells[0].Value.ToString());
 
-            
+                DialogResult result = MessageBox.Show("¿Esta Seguro que desea eliminar el tripulante?", "Eliminar", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                switch (result)
+                {
+                    case DialogResult.Yes:
+                        {
+                            int estado = Datos_Asignacion.LiberarConductor(conductor, vehiculo);
 
+                            if (estado > 0)
+                            {
+                                GrillaAsignacion.Rows.RemoveAt(fila);
+                                CargarGrillaConductor("");
+                                MessageBox.Show("Tripulante Eliminado Correctamente");
+                            }
+                            else
+                            {
+                                CargarGrillaConductor("");
+                                MessageBox.Show("El Tripulante no fue Eliminado");
+                            }
+                            break;
+                        }
+                    case DialogResult.No:
+                        {
+                            break;
+                        }
+                }
+            }
         }
 
         private void BtnNuevo_Click(object sender, EventArgs e)
         {
-            if (GrillaAsignacion.DataSource != null)
+            if (GrillaAsignacion.Rows.Count > 0)
             {
                 for (int i = 0; i < GrillaAsignacion.Rows.Count; i++)
                 {
@@ -412,7 +415,7 @@ namespace CapaPresentacion
             }
             else
             {
-                MessageBox.Show("No se ha Seleccionado ninguna unidad");
+                MessageBox.Show("No existe ningun tripulante para liberar");
             }
             
         }

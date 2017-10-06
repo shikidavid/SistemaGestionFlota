@@ -39,10 +39,6 @@ namespace CapaPresentacion
 
         public void Iniciarr()
         {
-            // CargarGrillaOrigenDestino();
-            //CargarGrillaTiempoRuta();
-            //CargarComboTiempo();
-           // GrillaConductores.DataSource = null;
             TxtBusqueda.Text =  string.Empty;
         }
 
@@ -184,7 +180,7 @@ namespace CapaPresentacion
             CboCivil.DisplayMember = "EstadoCivil";
             CboCivil.ValueMember = "IdEstadoCivil";
 
-            CboEstadoConductor.DataSource = Datos_Conductor.MostrarEstadoConductor();
+            CboEstadoConductor.DataSource = Datos_Conductor.MostrarEstadoConductorNoAsignado();
             CboEstadoConductor.DisplayMember = "EstadoConductor";
             CboEstadoConductor.ValueMember = "IdEstadoconductor";
 

@@ -41,8 +41,7 @@ namespace CapaPresentacion
         }
 
         public void CargarGrilla()
-        {
-            
+        {            
             GrillaEstadoConductore.DataSource = Datos_EstadoConductor.MostarEstadoConductor();
             GrillaEstadoConductore.Columns[0].Visible = false;
         }

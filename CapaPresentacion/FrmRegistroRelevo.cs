@@ -173,19 +173,26 @@ namespace CapaPresentacion
 
         private void BtnGuardar_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < GrillaRelevo.Rows.Count; i++)
+            if (GrillaRelevo.Rows.Count > 0)
             {
-                Negocios_Relevo.IdTipoVehiculo = int.Parse(GrillaRelevo.Rows[i].Cells[0].Value.ToString());
-                Negocios_Relevo.IdOrigenDestino = int.Parse(GrillaRelevo.Rows[i].Cells[1].Value.ToString());
-                Negocios_Relevo.Relevo = GrillaRelevo.Rows[i].Cells[3].Value.ToString();
-
-                if (Datos_Relevo.BuscarRelevoExistencia(Negocios_Relevo.IdTipoVehiculo,Negocios_Relevo.IdOrigenDestino, Negocios_Relevo.Relevo).Rows.Count == 0 )
+                for (int i = 0; i < GrillaRelevo.Rows.Count; i++)
                 {
-                    Datos_Relevo.GuardarRelevo(Negocios_Relevo);
-                }             
+                    Negocios_Relevo.IdTipoVehiculo = int.Parse(GrillaRelevo.Rows[i].Cells[0].Value.ToString());
+                    Negocios_Relevo.IdOrigenDestino = int.Parse(GrillaRelevo.Rows[i].Cells[1].Value.ToString());
+                    Negocios_Relevo.Relevo = GrillaRelevo.Rows[i].Cells[3].Value.ToString();
+
+                    if (Datos_Relevo.BuscarRelevoExistencia(Negocios_Relevo.IdTipoVehiculo, Negocios_Relevo.IdOrigenDestino, Negocios_Relevo.Relevo).Rows.Count == 0)
+                    {
+                        Datos_Relevo.GuardarRelevo(Negocios_Relevo);
+                    }
+                }
+                MetroMessageBox.Show(this, "Datos Guardados Correctamente!!", "", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+                Iniciar();
             }
-            MetroMessageBox.Show(this, "Datos Guardados Correctamente!!", "", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
-            Iniciar();
+            else
+            {
+                MetroMessageBox.Show(this, "No hay registros para guardar", "", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void BtnCancelar_Click(object sender, EventArgs e)
@@ -195,42 +202,48 @@ namespace CapaPresentacion
 
         private void BtnQuitar_Click(object sender, EventArgs e)
         {
-            int fila = GrillaRelevo.CurrentCell.RowIndex;
-            int TipoVehiculo = int.Parse(GrillaRelevo.Rows[fila].Cells[0].Value.ToString());
-            int Origen = int.Parse(GrillaRelevo.Rows[fila].Cells[1].Value.ToString());
-            string Relevo = GrillaRelevo.Rows[fila].Cells[3].Value.ToString();
-
-            Negocios_Relevo.IdTipoVehiculo = TipoVehiculo;
-            Negocios_Relevo.IdOrigenDestino = Origen;
-            Negocios_Relevo.Relevo = Relevo;
-
-            DialogResult result = MetroMessageBox.Show(this,"¿Esta Seguro que desea eliminar el relevo?", "Eliminar", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
-            switch (result)
+            if (GrillaRelevo.Rows.Count == 0)
             {
-                case DialogResult.Yes:
-                    {
-                        int estado = Datos_Relevo.LiberarRelevo(Negocios_Relevo);
-
-                        if (estado > 0)
-                        {
-                            GrillaRelevo.Rows.RemoveAt(fila);
-
-                            MetroMessageBox.Show(this, "Relevo Eliminado Correctamente...", "Advertencia...", MessageBoxButtons.OK, MessageBoxIcon.Stop);
-                           
-                        }
-                        else
-                        {
-                            MetroMessageBox.Show(this, "El Relevo no fue Eliminado...", "Advertencia...", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                        
-                        }
-                        break;
-                    }
-                case DialogResult.No:
-                    {
-                        break;
-                    }
+                MessageBox.Show("No hay registros a eliminar");
             }
+            else
+            {
+                int fila = GrillaRelevo.CurrentCell.RowIndex;
+                int TipoVehiculo = int.Parse(GrillaRelevo.Rows[fila].Cells[0].Value.ToString());
+                int Origen = int.Parse(GrillaRelevo.Rows[fila].Cells[1].Value.ToString());
+                string Relevo = GrillaRelevo.Rows[fila].Cells[3].Value.ToString();
 
+                Negocios_Relevo.IdTipoVehiculo = TipoVehiculo;
+                Negocios_Relevo.IdOrigenDestino = Origen;
+                Negocios_Relevo.Relevo = Relevo;
+
+                DialogResult result = MetroMessageBox.Show(this, "¿Esta Seguro que desea eliminar el relevo?", "Eliminar", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                switch (result)
+                {
+                    case DialogResult.Yes:
+                        {
+                            int estado = Datos_Relevo.LiberarRelevo(Negocios_Relevo);
+
+                            if (estado > 0)
+                            {
+                                GrillaRelevo.Rows.RemoveAt(fila);
+
+                                MetroMessageBox.Show(this, "Relevo Eliminado Correctamente...", "Advertencia...", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+
+                            }
+                            else
+                            {
+                                MetroMessageBox.Show(this, "El Relevo no fue Eliminado...", "Advertencia...", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+
+                            }
+                            break;
+                        }
+                    case DialogResult.No:
+                        {
+                            break;
+                        }
+                }
+            }
             
         }
 
